@@ -48,5 +48,5 @@ TOPSIS requires python v3+ to run.
 # Result File Saved as : Result.csv
 ```
 
-[PYPI](https://pypi.org/project/TOPSIS-Jay-101803206/0.4/)
+[PYPI](https://pypi.org/project/TOPSIS-Jay-101803206)
 [LINKDIN](https://www.linkedin.com/in/jay-sood/)
